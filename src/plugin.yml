@@ -1,0 +1,6 @@
+name: OldSchoolPvp
+version: 1.0
+author: cocoraid
+main: fr.cocoraid.oldschoolpvp.OldSchoolPvp
+softdepends: Multiverse-Core
+
